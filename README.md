@@ -1,0 +1,3 @@
+Angular
+TypeScript
+Firebase
